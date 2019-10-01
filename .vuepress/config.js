@@ -1,5 +1,9 @@
 module.exports = {
-    title: 'Ouvrir les Données Ouvertes',
+    title: 'Publications',
+    themeConfig: {
+        subdomain: 'publications'
+    },
+    plugins: ['demo-code'],
     markdown: {
         anchor: { permalink: false }
     },

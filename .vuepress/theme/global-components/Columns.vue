@@ -10,6 +10,6 @@
 }
 
 .columns > div {
-    flex-grow: 1;
+    flex: 1;
 }
 </style>
